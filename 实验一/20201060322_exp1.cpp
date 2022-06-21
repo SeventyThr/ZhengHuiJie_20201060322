@@ -30,3 +30,4 @@ void main(int argc ,char** argv)
 	init();
 	glutDisplayFunc(lineSegment);
 	glutMainLoop();
+}
